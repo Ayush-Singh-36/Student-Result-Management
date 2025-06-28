@@ -1,2 +1,5 @@
-# Student-Result-Management
-A simple yet powerful Student Result Management System using Core Python, with features like add/search/edit/delete/sort records.
+git init
+git add .
+git commit -m "Initial commit - Student Result Management System"
+git remote add origin https://github.com/YourUsername/Student-Result-Management.git
+git push -u origin main
